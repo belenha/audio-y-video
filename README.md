@@ -6,5 +6,5 @@ Se realiza una práctica para conocer cuáles fueron las nuevas implementaciones
 
 ![preview](https://user-images.githubusercontent.com/37427270/45058324-f72a6d00-b05d-11e8-8433-b6ff22c76831.png)
 
-##Desarrollado para 
+## Desarrollado para 
 [Laboratoria](http://laboratoria.la)
